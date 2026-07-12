@@ -1,0 +1,48 @@
+# Keil build outputs
+Objects/
+Listings/
+OBJ/
+obj/
+MDK-ARM/demo/
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.map
+*.lnp
+*.dep
+*.htm
+*.html
+*.lst
+
+# Keil user-specific files
+*.uvguix.*
+*.uvgui.*
+JLinkLog.txt
+JLinkSettings.ini
+EventRecorderStub.scvd
+
+# CubeMX temporary files
+.mxproject
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.old
+*.orig
